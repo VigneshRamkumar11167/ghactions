@@ -1,5 +1,4 @@
-name: CI
-	
+name: Hello World
 	on:
 	  push:
 	    branches: [ main ]
